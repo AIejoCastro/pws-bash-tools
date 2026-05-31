@@ -98,9 +98,3 @@ pws-bash-tools/
 ├── INSTRUCTIONS.md           # User guide
 └── TECHNICAL_EXPLANATION.md  # Internal logic and design explanation
 ```
-
----
-
-## Authors
-
-Developed as a final project for the Operating Systems course — Doceavo Semestre.
